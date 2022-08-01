@@ -1,0 +1,21 @@
+Recursively traversing through the given array, comparing each value with the values before it.
+If a minimal value is encountered, it is moved to the position where it is no longer the minimal value.
+This process repeats until the entire array is sorted
+
+position elements in an array in a certain order
+
+1. Copy element into temp variable
+2. Compare variable to elements towards the start of the array
+3. If element is larger than variable, element is moved up and variable takes it's place
+
+CODE
+1. For loop to walk through array, i starts at 1
+nest
+2. Copy value loop is on to a temp value
+3. Intialise j = i - 1; to look back in the array later
+4. While loop (j >= 0 && array[j] > temp value)
+nest
+5. array[j+1] = array[j] ((element in array[j] is place in current value of for loop))
+6. decrement j to move down array, while loops stops when j disproves condition
+outside while
+7. array[j + 1] = temp value ((j + 1 because the while loop has decremented it))
