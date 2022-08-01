@@ -1,0 +1,6 @@
+select head as current min
+look for smallest value in elements towards tail
+switch smallest item with head
+move to next element away from head - new current min
+
+CODE
