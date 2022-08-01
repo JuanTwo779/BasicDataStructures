@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayAccess/ArrayAccess.iml" filepath="$PROJECT_DIR$/ArrayAccess/ArrayAccess.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayDelete/ArrayDelete.iml" filepath="$PROJECT_DIR$/ArrayDelete/ArrayDelete.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BasicDataStructures.iml" filepath="$PROJECT_DIR$/.idea/BasicDataStructures.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array - InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/Array - InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoDimensionalArray/TwoDimensionalArray.iml" filepath="$PROJECT_DIR$/TwoDimensionalArray/TwoDimensionalArray.iml" />
     </modules>
   </component>
