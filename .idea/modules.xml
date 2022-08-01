@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayAccess/ArrayAccess.iml" filepath="$PROJECT_DIR$/ArrayAccess/ArrayAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDelete/ArrayDelete.iml" filepath="$PROJECT_DIR$/ArrayDelete/ArrayDelete.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BasicDataStructures.iml" filepath="$PROJECT_DIR$/.idea/BasicDataStructures.iml" />
     </modules>
   </component>
