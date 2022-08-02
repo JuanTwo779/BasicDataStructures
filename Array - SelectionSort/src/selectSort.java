@@ -17,6 +17,10 @@ public class selectSort {
 
         System.out.println("After: ");
         System.out.println(Arrays.toString(numbers));
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
     }
 
     public static void selectSort(int[] inputArray)
@@ -35,6 +39,10 @@ public class selectSort {
             inputArray[minIndex] = inputArray[i];
             inputArray[i] = tempValue;
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
     }
 }
 
