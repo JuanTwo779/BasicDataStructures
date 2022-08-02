@@ -4,3 +4,16 @@ switch smallest item with head
 move to next element away from head - new current min
 
 CODE
+1. For loop for first index of array
+        bound should be length -1 because we need to compare value with element to the right
+2. int minIndex = i
+3. Nest for loop j = i + 1 //value to the right
+        bound is just length
+4. If statement (array[j] < array[i])
+        true: set new minIndex to j
+5. In first loop, set up int tempValue = array[minIndex]
+        the value in mindex is stored
+6. array[minIndex] = array[i]
+        the bigger value found in [i] is moved to the right
+7. array[i] = tempValue
+        the smaller value stored in tempValue is moved to the place of the old min
